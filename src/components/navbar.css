@@ -1,0 +1,43 @@
+.navbar{
+    /* box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px; */
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    
+}
+.navbar-brand img{
+    width: 180px;
+}
+
+.nav-link{
+    font-weight:600;
+    color: black !important;
+    font-size: 1.1rem !important;
+}
+
+.content-text{
+    background-color: #f6f6f6;
+}
+form button{
+    border-radius: 20px !important; 
+    font-weight: bold !important;
+    background-color: #00aced !important;
+    border: none !important;
+    padding: 2px 2px 2px 15px !important;
+   
+    
+}
+form button .fas{
+    background-color: darkblue !important;
+    color: white !important;
+    border-radius: 50% !important;
+    padding: 9px;
+    font-size: 19px;
+    
+}
+
+form button:hover{
+    background-color: darkblue !important;
+}
+
+form button .fas:hover{
+    background-color: #00aced !important;
+}
